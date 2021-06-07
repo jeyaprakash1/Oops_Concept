@@ -1,0 +1,7 @@
+Types of methods:
+
+Instance method-sample-memory reference -->object (self)
+
+Class methods -> @classmethod decorator
+
+Static methods
